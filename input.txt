@@ -1,0 +1,3 @@
+-Primjer,-
+FUNKCIJA,$zbroji.$iFUNKCIJA2
+REZULTAT,jedan,SUM,dva.
